@@ -1,4 +1,4 @@
-{"image":"mcr.microsoft.com/devcontainers/python:3.11",
+{"image":"mcr.microsoft.com/devcontainers/python:3.10.8",
 "extensions": [
 	"ms-python.python",
 	"ms-toolai.juypter",
