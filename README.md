@@ -8,6 +8,10 @@ In this notebook the focus is to explore the basic with pre-trained object detec
 - fine-tuning
 - open vocabulary extension
 
+Extra: 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-iwi/MultimodalInteraction_ObjDet/blob/main/Object_Detection_Basics_YOLO_OWL-ViT.ipynb)
+
 ## 2. VLM_Basics.ipynb
 In this notebook the focus is on learning how to use programamtically 2 VLMs, i.e. GPT4 and Gemini. 
 
@@ -19,5 +23,4 @@ Install the dependencies with:
 ```bash
 pip install -r requirements.txt
 
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-iwi/MultimodalInteraction_ObjDet/blob/main/Object_Detection_Basics_YOLO_OWL-ViT.ipynb)
+```
